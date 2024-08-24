@@ -26,5 +26,6 @@ url?: string;
 
 }
 ```
+![file](https://github.com/user-attachments/assets/baed9352-b6a3-481b-8474-b0cdc36856d5)
 
-![](/assests/file.gif)
+
