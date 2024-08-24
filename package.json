@@ -10,14 +10,14 @@
   ],
   "license": "MIT",
   "type": "module",
-  "main": "dist/index.esm.js",
-  "module": "dist/index.js",
-  "umd": "dist/index.umd.js",
+  "main": "bundle/index.esm.js",
+  "module": "bundle/index.js",
+  "umd": "bundle/index.umd.js",
   "files": [
     "src",
-    "dist"
+    "bundle"
   ],
-  "types": "dist/index.d.ts",
+  "types": "bundle/index.d.ts",
   "devDependencies": {
     "@changesets/cli": "^2.27.7",
     "@tiptap/core": "^2.6.6",
